@@ -3,7 +3,7 @@
 🎯 Predict Customer Churn Risk with AI
 TrustPulse is a part of the FinSageAI suite — a modular ML system for financial behavior analytics. This tool predicts customer churn risk using a machine learning pipeline and visualizes trust breakdowns in an interactive dashboard.
 
-🌐 🔗 Live App
+🌐 https://trustpulse-makesense.streamlit.app/ --Live App
 Upload your own dataset and get instant churn risk insights, trust scores, and feature impact visualizations — all in the browser.
 
 📊 Features
