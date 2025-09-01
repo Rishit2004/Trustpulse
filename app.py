@@ -8,14 +8,13 @@ from trustpulse import load_and_preprocess, train_trust_model, summarize_results
 
 st.set_page_config(page_title="FinSageAI – TrustPulse", layout="centered")
 
-# -----------------------
+
 st.title("💼 FinSageAI: TrustPulse Module")
 st.markdown("""
 Predict customer churn risk and visualize trust breakdowns using machine learning.
 Upload a banking churn dataset to get started.
 """)
 
-# -----------------------
 # Upload section
 uploaded_file = st.file_uploader("📁 Upload Churn CSV File", type=["csv"])
 
